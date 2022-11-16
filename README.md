@@ -1,6 +1,6 @@
 # MazeSolver-Gui
 
-Program It loads a maze from a maze text file then program walks through the maze and finds the path from starting node to the exiting node.
+Program loads a maze from a maze text file then program walks through the maze and finds the path from starting node to the exiting node.
 
 Maze text file format: 
 Number of linkers, Number of columns, number of rows (Header of maze) 
