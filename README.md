@@ -8,14 +8,14 @@ Node’s name, x position, y position, next linked node name, next linked node n
 … 
 Node’s name, x position, y position, next linked node name, next linked node name
 
-Example: 
-22,7,6 
-START,0,2,B,A 
-B,1,2,C,K 
-C,1,3,D,E 
-… 
-V,4,1,N,A 
-EXIT,6,2,A,A 
+Example:
+22,7,6
+START,0,2,B,A
+B,1,2,C,K
+C,1,3,D,E
+…
+V,4,1,N,A
+EXIT,6,2,A,A
 
 “A” means not next linked node on this path (this path has no exit). 
 “W” links to exit. 
